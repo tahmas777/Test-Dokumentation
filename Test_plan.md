@@ -1,6 +1,5 @@
 # SauceDemo Test Planı
-
-Nov 20, 2026 · @Tahmasib
+ @Tahmasib
 
 ## 1. Giriş
 
